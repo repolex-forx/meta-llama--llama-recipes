@@ -1,0 +1,11 @@
+{
+  "org": "meta-llama",
+  "repo": "llama-recipes",
+  "versions": [
+    {
+      "commit": "2f22a9eb030f92d0e99227e57e9a1123af1f9532",
+      "tag": "",
+      "parsed_at": "2026-10-17T13:56:13.321582+00:00"
+    }
+  ]
+}
