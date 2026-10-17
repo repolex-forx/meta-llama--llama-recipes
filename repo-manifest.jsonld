@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/meta-llama/llama-recipes/commit/2f22a9eb030f92d0e99227e57e9a1123af1f9532",
       "git:hexsha": "2f22a9eb030f92d0e99227e57e9a1123af1f9532",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T13:56:13.321101+00:00"
     },
     {
       "@id": "https://repolex.ai/r/meta-llama/llama-recipes/commit/79aa69b227a04cefb6a5e53a6cbb6487a104d3ef",
