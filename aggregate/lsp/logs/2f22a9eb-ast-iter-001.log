@@ -1,0 +1,7 @@
+[2026-10-17T13:53:45Z] === AST ITERATION 1 START | repo=meta-llama/llama-recipes sha=2f22a9eb ===
+[2026-10-17T13:53:45Z] [iter=1] PHASE START: ast repo=meta-llama/llama-recipes sha=2f22a9eb
+[2026-10-17T13:53:45Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T13:55:07Z] [iter=1] AST chunks built count=1 triples=775263
+[2026-10-17T13:55:07Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/2f22a9eb030f92d0e99227e57e9a1123af1f9532/.complete
+[2026-10-17T13:55:07Z] [iter=1] PHASE END: ast elapsed_s=82 elapsed_min=1.4
+[2026-10-17T13:55:07Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
